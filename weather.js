@@ -18,3 +18,5 @@ const getData =(city)=>{
     getData
   }
 // console.log(module.exports);
+
+//nice!
